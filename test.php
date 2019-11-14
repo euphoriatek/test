@@ -1,4 +1,1 @@
-<?php 
-echo 'this is test';
-echo 'new addition';
-?>
+<?php echo 'this is test 123' ; ?>
